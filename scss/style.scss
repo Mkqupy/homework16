@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Inter:wght@200;300;500&family=Montserrat:wght@700&family=Roboto:wght@100;300&display=swap');
+@import "./reset", "./mixins", "./modal", "./main.scss";
+// body{
+//     font-family: 'inter';
+// }
+// section{
+//     max-width: 1431px;
+//     padding: 30px;
+// }
+// nav{
+//     ul{
+//         display: flex;
+//         list-style: none;
+//         gap: 15px;
+//     }
+//     li{
+//         font-weight: 200;
+//         font-size: 24px;
+//         line-height: 29px;
+
+//     }
+// }
+// h1{
+//     font-weight: 200;
+//     font-size: 70px;
+//     line-height: 85px;
+//     width: 561px;
+//     padding-top: 71px;
+
+//     & + p{
+//         font-weight: 300;
+//         font-size: 21px;
+//         line-height: 25px;
+//         width: 570px;
+//     } 
+//     &.btn-header{
+//             padding: 16px 34px 7px 34px;
+            
+//         }
+    
+// }

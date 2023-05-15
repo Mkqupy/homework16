@@ -1,0 +1,47 @@
+body {
+  font-family: "Inter";
+  color: #cb0707;
+  background-color: black;
+}
+
+.header {
+  max-width: 1200px;
+  padding: 30px;
+}
+.header nav ul {
+  display: flex;
+  list-style: none;
+  gap: 15px;
+}
+.header nav li {
+  font-weight: 200;
+  font-size: 24px;
+  line-height: 29px;
+}
+.header h1 {
+  font-weight: 200;
+  font-size: 70px;
+  line-height: 85px;
+  width: 561px;
+  padding-top: 71px;
+}
+.header h1 + p {
+  font-weight: 300;
+  font-size: 21px;
+  line-height: 25px;
+  width: 570px;
+  margin: 22px 0 49px;
+}
+.header .btn {
+  background-color: #b47b48;
+}
+.header .btn-header {
+  padding: 16px 34px 7px 34px;
+  border-radius: 17px;
+}
+.header .btn1 {
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  color: #ffffff;
+}
